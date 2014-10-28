@@ -1,0 +1,5 @@
+test
+xs match {
+    case Nil => 0
+    case head :: tail => head + sum(tail)
+submit kevinhorlick@gmail.com mNXfvQjJAx  
